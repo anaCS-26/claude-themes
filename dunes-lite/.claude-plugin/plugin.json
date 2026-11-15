@@ -1,0 +1,6 @@
+{
+  "name": "dunes-lite",
+  "version": "0.3.0",
+  "description": "A still, blur-free dithered desert backdrop that costs the app almost nothing to draw: a moonlit night scene with matching colors, plus the original night and day. Adapted from Anthropic's theme-examples plugin.",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-themes",
+  "owner": { "name": "anaCS-26" },
+  "plugins": [
+    {
+      "name": "dunes-lite",
+      "source": "./dunes-lite",
+      "description": "A still, dithered desert night behind the chat in the Claude desktop app: no animation, no blur."
+    }
+  ]
+}
